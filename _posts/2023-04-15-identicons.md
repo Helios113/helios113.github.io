@@ -23,4 +23,4 @@ The final product is on my github: [https://github.com/Helios113/identicons](htt
 
 Here is a sample of what I made:   
 
-<img src="../img.png" alt="img" class="img-responsive" width=50% height=50%>
+![](./../assets/icons/android-chrome-512x512.png)
