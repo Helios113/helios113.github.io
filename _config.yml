@@ -13,7 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Preslav
+title: Preslav's website
+subtitle: Hey
+masthead_title: My website
+hero_title: Greetings!
 email: me@preslav.xyz
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -60,17 +63,17 @@ plugins:
 author:
   name   : "Preslav Aleksandrov"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hi! I am research software engineer at the University of Glasgow and a senior software engineer at <a href='https://www.semiconductorwise.com/' target='_blank'>semiconductorwise</a>, working on ML, VR and computational methods. "
+  bio    : "Hi! I am research software engineer at the University of Glasgow and a senior software engineer at <a href='https://www.semiconductorwise.com/' target='_blank'>SemiconductorWise</a>, working on ML, VR and computational methods. "
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:me@preslav.xyz"
 
 footer:
   links:
@@ -80,9 +83,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:me@preslav.xyz"
 
 defaults:
   # _posts
