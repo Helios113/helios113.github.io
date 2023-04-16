@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Preslav Aleksandrov"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hi! I am research software engineer at the University of Glasgow, working on ML, VR and computational methods. Currently focusing on nano-electronics."
+  bio    : "Hi! I am research software engineer at the University of Glasgow and a senior software engineer at <a href='https://www.semiconductorwise.com/' target='_blank'>semiconductorwise</a>, working on ML, VR and computational methods. "
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
