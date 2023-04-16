@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Preslav Aleksandrov"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Hi! I am research software engineer at the University of Glasgow, working on ML, VR and computational methods. Currently focusing on nano-electronics."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -71,9 +71,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 footer:
   links:

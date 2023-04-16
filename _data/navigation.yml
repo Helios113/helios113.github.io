@@ -1,14 +1,14 @@
 main:
+  - title: "Articles"
+    url: /articles/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "About"
-    url: /about/
-  - title: "Home"
-    url: /home/
-  - title: Git
+  - title: "CV"
+    url: /cv/
+  - title: "Git"
     url: https://github.com/Helios113/
   
