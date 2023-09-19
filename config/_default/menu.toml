@@ -10,15 +10,41 @@
 [[social]]
 identifier = "github"
 name = "GitHub"
-url = "https://github.com/CaiJimmy/hugo-theme-stack"
-
+url = "https://github.com/Helios113"
 [social.params]
 icon = "brand-github"
 
 [[social]]
-identifier = "twitter"
-name = "Twitter"
-url = "https://twitter.com"
-
+identifier = "linkedin"
+name = "Linkedin"
+url = "https://github.com/Helios113"
 [social.params]
-icon = "brand-twitter"
+icon = "brand-linkedin"
+
+[[social]]
+identifier = "x"
+name = "X"
+url = "https://x.com/_preslav"
+[social.params]
+icon = "brand-x"
+
+[[social]]
+identifier = "orcid"
+name = "orcid"
+url = "https://orcid.org/0009-0009-5198-9983"
+[social.params]
+icon = "brand-orcid"
+
+[[social]]
+identifier = "uni"
+name = "university"
+url = "https://www.gla.ac.uk/schools/engineering/staff/preslavaleksandrov/"
+[social.params]
+icon = "brand-uni"
+
+[[social]]
+identifier = "scholar"
+name = "scholar"
+url = "https://www.gla.ac.uk/schools/engineering/staff/preslavaleksandrov/"
+[social.params]
+icon = "brand-pub"
