@@ -19,7 +19,7 @@ Today, I am on my way to Kobe. I spent the whole day in Tokyo, and I really enjo
 
 ## Future work 
 
-In Tokyo, I really wanted to go to the flagship Muji store. Still, to my surprise, it is closed for renovations until a day after I leave Japan. I also wanted to climb Mt. Fuji, but due to time constraints and unfortunate timing, I could not do that, too. So I am definitely coming back ✈✈✈
+In Tokyo, I really wanted to go to the flagship Muji store. Still, to my surprise, it is closed for renovations until a day after I leave Japan. I also wanted to climb Mt. Fuji, but due to time constraints and unfortunate timing, I could not do that, too. So I am definitely coming back 🛩🛩🛩.
 
 ## Thoughts on Tokyo 
 

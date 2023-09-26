@@ -11,5 +11,5 @@ tags:
     - Announcements
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
-I got my first ever publication out.
+I got my first ever publication out. Avaialbe for free as a preprint at [eprints](https://eprints.gla.ac.uk/304810/) or published at (IEEE)[https://ieeexplore.ieee.org/document/10231075]. Please cite the IEEE version 😁.
 
