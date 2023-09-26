@@ -77,7 +77,7 @@ enabled = true
 ## Comments
 [comments]
 enabled = true
-provider = "cusdis"
+provider = "waline"
 
 [comments.disqusjs]
 shortname = "preslav-a"
@@ -105,8 +105,8 @@ clientSecret = ""
 autoCreateIssue = false
 
 [comments.waline]
-serverURL = ""
-lang = ""
+serverURL = "https://waline-3p6urdmux-helios113.vercel.app"
+lang = "en"
 visitor = ""
 avatar = ""
 emoji = ["https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo"]

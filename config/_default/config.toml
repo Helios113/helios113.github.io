@@ -15,3 +15,4 @@ hasCJKLanguage = false
 # Change it to your Disqus shortname before using
 disqusShortname = "preslav-a"
 googleAnalytics = "G-0LP7EJEW4Q"
+enableEmoji = true
