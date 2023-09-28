@@ -21,4 +21,4 @@ Samsung spoke about how they can replace DFT with ML. They use SimpleNN to predi
 
 ## AAAI paper results  
 
-My AAAI paper will recieve a dеsicion today! Very excited to find out if my collaborators and I will get an AAAI paper out.
+My AAAI paper will recieve a dеsicion today! Very excited to find out if my collaborators and I will get it
