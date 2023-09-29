@@ -13,9 +13,17 @@ tags:
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-## FlowSim: An Invertible Generative Network for Efficient Statistical Analysis under Process Variations
+## FlowSim: An Invertible Generative Network for Efficient Statistical Analysis under Process Variations  
 
-## Device Image-IV Mapping using Variational Autoencoder for Inverse Design and Forward Prediction
 
-## A Novel Machine-Learning Based Mode Space Method for Efficient Device Simulations
+## Device Image-IV Mapping using Variational Autoencoder for Inverse Design and Forward Prediction  
+
+
+## A Novel Machine-Learning Based Mode Space Method for Efficient Device Simulations  
+
+
+## Fully Convolutional Generative Machine Learning Method for Accelerating Non-Equilibrium Green’s Function Simulations  
+
 {{< youtube AsqEixAmE54 >}}
+
+## Statistical Modeling of Metal-Oxide RRAM SET/RESET Behavior Using Deep Neural Networks
