@@ -7,6 +7,8 @@ image: IMG_0178.jpeg
 categories:
     - Conferences
     - Announcements
+    - SISPAD
+    - SISPAD23
 tags:
     - Conferences
     - Announcements
