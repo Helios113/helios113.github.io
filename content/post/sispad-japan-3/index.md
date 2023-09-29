@@ -41,4 +41,6 @@ Second part is imapct ionisation. There is a sparate model for this. This "creat
 
 
 
-## Electrolyte-Gated FET-based Sensing of Immobilized Amphoteric Molecules Including the Variability in Affinity of the Reactive Sites
+## Electrolyte-Gated FET-based Sensing of Immobilized Amphoteric Molecules Including the Variability in Affinity of the Reactive Sites  
+
+![Naveen](IMG_0326.jpeg)
