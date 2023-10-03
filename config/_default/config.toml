@@ -2,7 +2,7 @@
 baseurl = "https://preslav.xyz"
 languageCode = "en-us"
 paginate = 5
-title = "Preslav Aleksandrov"
+title = "Preslav Aleksandrov | ML Researcher"
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
@@ -16,3 +16,9 @@ hasCJKLanguage = false
 disqusShortname = "preslav-a"
 googleAnalytics = "G-0LP7EJEW4Q"
 enableEmoji = true
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5

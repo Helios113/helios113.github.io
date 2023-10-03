@@ -1,7 +1,7 @@
 ---
-title: C
+title: Conferences
 description: A description of this category
-image:
+image: 
 
 # Badge style
 style:

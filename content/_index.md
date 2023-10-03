@@ -1,4 +1,5 @@
 ---
+title: "Preslav Aleksandrov | ML Researcher"
 menu:
     main:
         name: Home
