@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Conferences on Preslav Aleksandrov | ML Researcher</title><link>https://preslav.xyz/tags/conferences/</link><description>Recent content in Conferences on Preslav Aleksandrov | ML Researcher</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 29 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://preslav.xyz/tags/conferences/index.xml" rel="self" type="application/rss+xml"/><item><title>Trip to Japan and SISPAD 2023: SISPAD DAY 3</title><link>https://preslav.xyz/p/sispad-japan-3/</link><pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate><guid>https://preslav.xyz/p/sispad-japan-3/</guid><description>&lt;img src="https://preslav.xyz/p/sispad-japan-3/IMG_0293.jpeg" alt="Featured image of post Trip to Japan and SISPAD 2023: SISPAD DAY 3" />&lt;h2 id="self-consistent-monte-carlo-device-simulation-of-capture-excitation-processes-of-carriers">Self-Consistent Monte Carlo Device Simulation of Capture-Excitation Processes of Carriers&lt;/h2>
+&lt;p>Sony presented a &lt;a class="link" href="https://en.wikipedia.org/wiki/Monte_Carlo_method" target="_blank" rel="noopener"
+>Monte Carlo&lt;/a> Device simulator for carriers. Monte Carlo is an interesting simulation method. I need to write a tutorial on how to effectivly implement MC methods in python.&lt;/p>
+&lt;h2 id="bayesian-optimization-of-light-grating-for-high-performance-single-photon-avalanche-diodes">Bayesian Optimization of Light Grating for High Performance Single-Photon Avalanche Diodes&lt;/h2>
+&lt;p>Single-Photon Avalanche Diodes (SPADS).
+Laser illuminates scene and SPAD captutes the relection. One can compute the distance to an object. Used for autofocus of smartphones. SPADS are time of flight sensors. One can model SPADS as electrical devices or optical devices.&lt;/p>
+&lt;p>How to find optimal grating and DTI parameters? One can use empirical equations &lt;a class="link" href="https://pubmed.ncbi.nlm.nih.gov/34265921/" target="_blank" rel="noopener"
+>[Ono 2021]&lt;/a>. However, this method uses ray tracing which does not always work based on wavelengths.&lt;/p>
+&lt;p>If we want to optimize the light absortion, we can express absorbtion as a function of geometry and then use baysian optimisation to find the optimal parameter set.&lt;/p>
+&lt;p>Using this method you can target the exact wavelength of interest. Really nice for inverse design.
+Speaker: &lt;a class="link" href="https://ieeexplore.ieee.org/author/37088547300" target="_blank" rel="noopener"
+>Jeremy Grebot&lt;/a>&lt;/p>
+&lt;h2 id="full-band-monte-carlo-study-of-hot-carriers-for-advection-diffusion-monte-carlo-simulations">Full-Band Monte Carlo Study of Hot Carriers for Advection-Diffusion Monte Carlo Simulations&lt;/h2>
+&lt;p>Looking at SPADS. SPADS are time of flight devices. Very strong PN junction and thus a strong electric field. Simulating the avalanch is done using advection-diffusion &lt;a class="link" href="https://en.wikipedia.org/wiki/Monte_Carlo_method" target="_blank" rel="noopener"
+>Monte Carlo&lt;/a>. Boltzmann equations are too long and difficult. We can simplyfy the equation to get faster simulation and then enable Monte Carlo. We integrate Boltzmann equations twice to get to &lt;a class="link" href="https://en.wikipedia.org/wiki/Convection%e2%80%93diffusion_equation" target="_blank" rel="noopener"
+>Drift Diffusion&lt;/a> (DD). DD has two parts advection and diffusion. The idea is that diffusion can be solved with MC.&lt;/p>
+&lt;p>Tradeoff complexity for time, because we do not care for some wave equation results.&lt;/p>
+&lt;p>Second part is imapct ionisation. There is a sparate model for this. This &amp;ldquo;creates&amp;rdquo; more particles than are lost. So this is the mechanism that causes the avalanch.&lt;/p>
+&lt;h2 id="band-structure-and-optical-absorption-of-strained-sigec-alloys-a-tight-binding-approach">Band structure and optical absorption of strained SiGeC alloys: a Tight-Binding approach&lt;/h2>
+&lt;h2 id="electrolyte-gated-fet-based-sensing-of-immobilized-amphoteric-molecules-including-the-variability-in-affinity-of-the-reactive-sites">Electrolyte-Gated FET-based Sensing of Immobilized Amphoteric Molecules Including the Variability in Affinity of the Reactive Sites&lt;/h2>
+&lt;p>&lt;img src="https://preslav.xyz/p/sispad-japan-3/IMG_0326.jpeg"
+width="3024"
+height="2238"
+srcset="https://preslav.xyz/p/sispad-japan-3/IMG_0326_hub45cbc2f09fc73faa7c30235886fd334_951154_480x0_resize_q75_box.jpeg 480w, https://preslav.xyz/p/sispad-japan-3/IMG_0326_hub45cbc2f09fc73faa7c30235886fd334_951154_1024x0_resize_q75_box.jpeg 1024w"
+loading="lazy"
+alt="Naveen"
+class="gallery-image"
+data-flex-grow="135"
+data-flex-basis="324px"
+>&lt;/p></description></item><item><title>Trip to Japan and SISPAD 2023: SISPAD DAY 2</title><link>https://preslav.xyz/p/sispad-japan-2/</link><pubDate>Thu, 28 Sep 2023 14:41:00 +0800</pubDate><guid>https://preslav.xyz/p/sispad-japan-2/</guid><description>&lt;img src="https://preslav.xyz/p/sispad-japan-2/img.jpeg" alt="Featured image of post Trip to Japan and SISPAD 2023: SISPAD DAY 2" />&lt;h2 id="flowsim-an-invertible-generative-network-for-efficient-statistical-analysis-under-process-variations">FlowSim: An Invertible Generative Network for Efficient Statistical Analysis under Process Variations&lt;/h2>
+&lt;h2 id="device-image-iv-mapping-using-variational-autoencoder-for-inverse-design-and-forward-prediction">Device Image-IV Mapping using Variational Autoencoder for Inverse Design and Forward Prediction&lt;/h2>
+&lt;h2 id="a-novel-machine-learning-based-mode-space-method-for-efficient-device-simulations">A Novel Machine-Learning Based Mode Space Method for Efficient Device Simulations&lt;/h2>
+&lt;h2 id="fully-convolutional-generative-machine-learning-method-for-accelerating-non-equilibrium-greens-function-simulations">Fully Convolutional Generative Machine Learning Method for Accelerating Non-Equilibrium Green’s Function Simulations&lt;/h2>
+&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/AsqEixAmE54"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;h2 id="statistical-modeling-of-metal-oxide-rram-setreset-behavior-using-deep-neural-networks">Statistical Modeling of Metal-Oxide RRAM SET/RESET Behavior Using Deep Neural Networks&lt;/h2></description></item><item><title>Trip to Japan and SISPAD 2023: SISPAD DAY 1</title><link>https://preslav.xyz/p/sispad-japan-1/</link><pubDate>Wed, 27 Sep 2023 14:41:00 +0800</pubDate><guid>https://preslav.xyz/p/sispad-japan-1/</guid><description>&lt;img src="https://preslav.xyz/p/sispad-japan-1/IMG_0129.jpeg" alt="Featured image of post Trip to Japan and SISPAD 2023: SISPAD DAY 1" />&lt;h2 id="process-simulation---surface-etching">Process simulation - surface etching&lt;/h2>
+&lt;p>Lado spoke about his ViennaPS. I need to read the paper to properly understand. As Lado said, if you don&amp;rsquo;t know about surface etching, 15 minutes won&amp;rsquo;t help 🤣.&lt;/p>
+&lt;h2 id="process-simulation---surface-deposition-modelling">Process simulation - surface deposition modelling&lt;/h2>
+&lt;p>Samsung spoke about how they can replace DFT with ML. They use SimpleNN to predict surface potential. The model thus far works only in a predefined domain. They aim to expand this to have generative capabilites.&lt;/p>
+&lt;h2 id="aaai-paper-results">AAAI paper results&lt;/h2>
+&lt;p>My AAAI paper will recieve a dеsicion today! Very excited to find out if my collaborators and I will get it&lt;/p></description></item><item><title>Trip to Japan and SISPAD 2023: TOKYO</title><link>https://preslav.xyz/p/sispad-japan/</link><pubDate>Tue, 26 Sep 2023 18:41:00 +0800</pubDate><guid>https://preslav.xyz/p/sispad-japan/</guid><description>&lt;img src="https://preslav.xyz/p/sispad-japan/IMG_0178.jpeg" alt="Featured image of post Trip to Japan and SISPAD 2023: TOKYO" />&lt;h2 id="today">Today&lt;/h2>
+&lt;p>Today, I am on my way to Kobe. I spent the whole day in Tokyo, and I really enjoyed it. Tokyo is a fantastic place, it has a population of &lt;a class="link" href="https://en.wikipedia.org/wiki/Tokyo" target="_blank" rel="noopener"
+>14.09 million&lt;/a> people as of 2018. That is double that of my home country!!!&lt;/p>
+&lt;h2 id="future-work">Future work&lt;/h2>
+&lt;p>In Tokyo, I really wanted to go to the flagship Muji store. Still, to my surprise, it is closed for renovations until a day after I leave Japan. I also wanted to climb Mt. Fuji, but due to time constraints and unfortunate timing, I could not do that, too. So I am definitely coming back 🛩🛩🛩.&lt;/p>
+&lt;h2 id="thoughts-on-tokyo">Thoughts on Tokyo&lt;/h2>
+&lt;p>Apart from those annoying facts, Tokyo has been great. The city centre is more posh and luxurious than Dubai or Doha, yet cheaper than the UK. I am not a luxury shopper, but I want to know if I get a good deal. The food is excellent, as all food bloggers suggest. There are a lot of stunning sights and beautiful shrines. I can only imagine how many more things there are&amp;hellip;&lt;/p>
+&lt;p>Tomorrow is the first day of SISPAD. I am excited to meet everyone and learn more about thermo/mechanical analysis of semiconductors. On Thursday, the 28th is the machine learning session, which is what I am here for. It&amp;rsquo;s also the day of my talk, so it will be great!&lt;/p></description></item></channel></rss>
